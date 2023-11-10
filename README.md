@@ -1,4 +1,4 @@
-### Hi there, I am Zsuzsa Lukacs <img src="https://giphy.com/embed/w1OBpBd7kJqHrJnJ13" width="10" height="0" />
+### Hi there, I am Zsuzsa Lukacs 
 
 I'm an experienced Full Stack Developer with a strong foundation in JavaScript and React, complemented by recent strides in Python. Committed to sustainability, I am eager to apply my diverse technical skills to contribute to impact-driven projects.
 
