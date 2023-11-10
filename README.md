@@ -1,4 +1,12 @@
-### Hi there, I am Zsuzsa Lukacs <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, I am Zsuzsa Lukacs
+
+I'm an experienced Full Stack Developer with a strong foundation in JavaScript and React, complemented by recent strides in Python. Committed to sustainability, I am eager to apply my diverse technical skills to contribute to impact-driven projects.
+
+---
+
+🧰 Toolbox
+
+<img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' alt=react logo />
 
 <!--
 **ZsuzsaMano/ZsuzsaMano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
