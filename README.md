@@ -1,5 +1,9 @@
 ### Hi there, I am Zsuzsa Lukacs
 
+<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjR4-_YxrmCAxVk_rsIHRcEA5MQFnoECA0QAQ&url=https%3A%2F%2Fde.linkedin.com%2Fin%2Fzsuzsa-lukacs&usg=AOvVaw3j8DZTO6Z4D-MnaG7lQJQ-&opi=89978449">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
 I'm an experienced Full Stack Developer with a strong foundation in JavaScript and React, complemented by recent strides in Python. Committed to sustainability, I am eager to apply my diverse technical skills to contribute to impact-driven projects.
 
 ---
