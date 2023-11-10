@@ -16,6 +16,10 @@ I'm an experienced Full Stack Developer with a strong foundation in JavaScript a
 <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' alt='react' logo width='50' height='50'> <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' alt='javascript' logo width='50' height='50'> <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' alt='html' logo width='50' height='50'> <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' alt='css' logo width='50' height='50'> <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python' logo width='50' height='50'> <img src='https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg' alt='npm' logo width='50' height='50'> <img src='https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg' alt='tailwind' logo width='50' height='50'> <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' alt='node' logo width='50' height='50'><img src='https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg' alt='vue' logo width='50' height='50'> <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg' alt='postgresql' logo width='50' height='50'>
 
 ---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZsuzsaMano&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZsuzsaMano&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
