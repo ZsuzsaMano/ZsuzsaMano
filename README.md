@@ -6,15 +6,7 @@ I'm an experienced Full Stack Developer with a strong foundation in JavaScript a
 
 🧰 Toolbox
 
-<img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' alt='react' logo width='50' height='50'>
-
-<img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' alt='javascript' logo width='50' height='50'>
-
-<img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' alt='html' logo width='50' height='50'>
-
-<img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' alt='css' logo width='50' height='50'>
-
-<img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python' logo width='50' height='50'>
+<img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' alt='react' logo width='50' height='50'><img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' alt='javascript' logo width='50' height='50'><img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' alt='html' logo width='50' height='50'><img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' alt='css' logo width='50' height='50'><img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python' logo width='50' height='50'>
 
 
 <!--
